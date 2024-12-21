@@ -46,7 +46,7 @@ If you’re looking for a place where your skills can make a difference, we’d 
 
 ### Follow Us:
 
-[‎<img src="./assets/social/linkedin.svg" alt="Linkedin" />‎](https://it.linkedin.com/company/beliven)
-[‎<img src="./assets/social/instagram.svg" alt="Instagram" />‎](https://www.instagram.com/happycoders/)
-[‎<img src="./assets/social/facebook.svg" alt="Meta" />‎](https://www.facebook.com/Belivencom/)
-[‎<img src="./assets/social/youtube.svg" alt="Youtube" />‎](https://www.youtube.com/@beliven)
+- <img src="./assets/social/linkedin.svg" alt="Linkedin" /> &nbsp;&nbsp; [Linkedin](https://it.linkedin.com/company/beliven)
+- <img src="./assets/social/instagram.svg" alt="Instagram" /> &nbsp;&nbsp; [Instagram](https://www.instagram.com/happycoders/)
+- <img src="./assets/social/facebook.svg" alt="Meta" /> &nbsp;&nbsp; [Meta](https://www.facebook.com/Belivencom/)
+- <img src="./assets/social/linkedin.svg" alt="Youtube" /> &nbsp;&nbsp; [Youtube](https://www.youtube.com/@beliven)
