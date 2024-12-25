@@ -54,7 +54,3 @@ We welcome security testing of our publicly accessible systems and services. How
 ### Contact
 
 For any security-related inquiries or to report a vulnerability, please contact us at **security@beliven.com**.
-
----
-
-Let me know if you’d like to customize this further for Beliven or add additional sections! 😊
