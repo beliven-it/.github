@@ -1,3 +1,9 @@
+<br>
+<p align="center"><img src="./assets/logo.svg?sanitize=true" /></p>
+<br>
+
+<br />
+
 # Contributing
 
 If you're reading this file, it means you're interested in contributing to this repository.
@@ -69,16 +75,16 @@ We welcome contributions to the codebase via pull requests! Here’s how to get 
 
 This project may have specific requirements, which will always be listed here as they apply.
 
-- **Testing**:  
+- **Testing**:
   Any new code must include adequate test coverage. Pull requests that lack tests will not be merged.
 
-- **Pull Request Details**:  
+- **Pull Request Details**:
   Include sufficient context and explanation in your pull request description. Maintain a consistent and meaningful commit history.
 
 ---
 
 ## Final Words
 
-Thank you again for wanting to contribute to this project! Your ideas and help are invaluable and make the open source ecosystem stronger.  
+Thank you again for wanting to contribute to this project! Your ideas and help are invaluable and make the open source ecosystem stronger.
 
 We look forward to your contributions. **Happy coding!** 🎉
