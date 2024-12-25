@@ -28,7 +28,7 @@ Beliven is committed to fostering a happy and collaborative work environment, fo
 ### 🌍 Where to Find Us:
 Beliven is based in Italy, offering its services to businesses of all sizes.
 You can reach out to us through our official website or contact us directly to discuss your project needs.
-Visit [Beliven](https://www.beliven.com/en) for more details.
+Visit [Beliven](https://www.beliven.com/) for more details.
 
 ### 💼 Work with Us:
 
