@@ -1,2 +1,3 @@
 # .github
-Giuhub settings for Beliven organisation 
+
+Giuhub settings for Beliven organization.
